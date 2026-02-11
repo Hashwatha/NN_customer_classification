@@ -95,7 +95,7 @@ def train_model(model,train_loader,criterion,optimizer,epochs):
 
 ### Classification Report
 
-<img width="583" height="400" alt="image" src="https://github.com/user-attachments/assets/4cc394c9-73fd-4075-a220-e19b921676bc" />
+<img width="662" height="426" alt="image" src="https://github.com/user-attachments/assets/1a5d45f2-dc36-4026-944b-835e2e05d39e" />
 
 ### New Sample Data Prediction
 
