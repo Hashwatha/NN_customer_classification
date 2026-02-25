@@ -95,11 +95,11 @@ def train_model(model,train_loader,criterion,optimizer,epochs):
 
 ### Classification Report
 
-<img width="662" height="426" alt="image" src="https://github.com/user-attachments/assets/1a5d45f2-dc36-4026-944b-835e2e05d39e" />
+<img width="732" height="497" alt="image" src="https://github.com/user-attachments/assets/63686dc0-35f9-4fac-a929-d6e466ff2138" />
 
 ### New Sample Data Prediction
 
-<img width="637" height="70" alt="image" src="https://github.com/user-attachments/assets/b735e05e-0731-43a2-b3d5-9ebcfc9f99ab" />
+<img width="753" height="400" alt="image" src="https://github.com/user-attachments/assets/9ec6e8a4-014a-41db-8b55-fc82aee973b5" />
 
 ## RESULT
 
